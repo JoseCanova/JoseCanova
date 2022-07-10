@@ -9,3 +9,8 @@ JoseCanova/JoseCanova is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 ### And as usual i fucked up all... i have promised to me... don't fuck up... and i fucked... 
+At least "writing"... justify some future actions.. 
+
+first wasn't me who fucked up... that "old behavior".. .asking things.. that are old... same behavior... 
+I answering there is model... simple ... someone on XP... could help a lot.. 
+This is how we sold things on half time.
