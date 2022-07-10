@@ -166,4 +166,8 @@ i pointed the problem , the error and when will happen (this is an estimation)..
  
  And i was drunk like shit.. yeah.. https://www.youtube.com/watch?v=9MNdOCQYOL8&list=RDGMEM_v2KDBP3d4f8uT-ilrs8fQ&index=8
  
+ They hacked the boss too... the rule is protect the team.. which means ... 
  
+ their past their problems ... is not him/her here ? is it?
+ 
+ because he will always need an advisor... 
