@@ -77,3 +77,5 @@ that thing that end ... was the best... undestand that ... the small pieces of c
 that say we are important.. we shall point ... that the best model reproves... such actions ... and we cannot adopt your model under our model.. 
 
 unless you agree to certain changes... because we cannot hurt the image of the technoly that we proposing to adopt.
+
+and analysing your model detected "impedance mimatches"... 
