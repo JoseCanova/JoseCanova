@@ -125,3 +125,5 @@ It's not personall ... it's mutation... we can cause it... but 'it's ... mutatio
 I'm doing the transformations and i saw.. ops the gave the rules... which.. means.. the ruels is yours now... and i screw all friday... 
 
 isn't perfect? the timming was perfect :-) 
+
+What if ? if that meeting didn't exist... and some other assumptions could be removed... aw... welll ... the d-d... was almost finished.
