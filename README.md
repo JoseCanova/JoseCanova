@@ -79,3 +79,7 @@ that say we are important.. we shall point ... that the best model reproves... s
 unless you agree to certain changes... because we cannot hurt the image of the technoly that we proposing to adopt.
 
 and analysing your model detected "impedance mismatches"... 
+
+I dont need to ask.. https://www.youtube.com/watch?v=4pGGst9Ir8U&list=RD7F8MJE91Py8&index=27
+
+they are my friends... watch at distance... 
