@@ -85,3 +85,9 @@ I dont need to ask.. https://www.youtube.com/watch?v=4pGGst9Ir8U&list=RD7F8MJE91
 they are my friends... watching at distance...
 
 i dont need to ask what to answer... 
+
+Am I auditing now, im auditing... audited pointed... that enough.. 
+
+It the tarot cards... Y carrer... he is friend... i pointed where he will have problem.. 
+
+and if this problem appear.. you are mine... 
