@@ -91,3 +91,5 @@ Am I auditing now, im auditing... audited pointed... that enough..
 It the tarot cards... Y carrer... he is friend... i pointed where he will have problem.. 
 
 and if this problem appear.. you are mine... 
+
+you dont need to change that shit ... im assure you... that oracle haven't change the way of the things are on that point. because this oracle way.. 
