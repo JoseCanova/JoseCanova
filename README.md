@@ -121,3 +121,7 @@ And the stakeholder knows what could happen and its justified if i present a ide
 Ow.. that's it ? its not a bad idea if we isolate .. the mutaations on something that deal just with it.. 
 
 It's not personall ... it's mutation... we can cause it... but 'it's ... mutation'... reducing... weird things solves.. 
+
+I'm doing the transformations and i saw.. ops the gave the rules... which.. means.. the ruels is yours now... and i screw all friday... 
+
+isn't perfect? the timming was perfect :-) 
