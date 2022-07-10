@@ -95,3 +95,7 @@ and if this problem appear.. you are mine...
 you dont need to change that shit ... im assure you... that oracle haven't change the way of the things are on that point. because this oracle way.. 
 
 Larry Ellison said.. you should that we moving the thing to memory.. which means ... that ... finnaly we can go back to our models.. 
+
+And with that ... things that are oracle is oracle... that thing is good ... on that context ... can cause problems... 
+
+that page stuff.. that is "different from sql server ..." need to check.. 
