@@ -24,3 +24,13 @@ this is i will 50/50 ... if you dont wanna read it its your problem.. not mine..
 the other side came with same problem.. who want to show what i want to see?
 
 me... but ... i guess im impersonating.. 
+
+It's not a problems it's a knowledge gained..
+
+We are programmers... we know that it's bytebuddy + schemacrawler + my hands... 
+
+but how i said... "I never saw that"... then i read a concern ... 
+
+that versions of database models are coming back... i realized why..
+
+but i never saw that. https://www.youtube.com/watch?v=JGwWNGJdvx8&list=RD7F8MJE91Py8&index=27
