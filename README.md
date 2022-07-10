@@ -39,8 +39,6 @@ mutability is chain the things.. avoid the "document encapsulation this is impor
 
 transformation is "role of the programmer"... which means... the last backend man... 
 
-
-
 In matter of fact my 2 friends were betting ... hum... "10 days... 20days until he going to stress?"
 
 but i never saw that. https://www.youtube.com/watch?v=JGwWNGJdvx8&list=RD7F8MJE91Py8&index=27
@@ -52,4 +50,10 @@ i am programmed to think combinations.
 
 chainning things reduce the mutability... https://www.youtube.com/watch?v=NhisVOQb6gU&list=RD7F8MJE91Py8&index=27
 
-fuck he last speech.. we are closed... (except me he had be... this is the week.. ;-) ) 
+fuck his last speech.. we are closed... (except me he had be... this is the week.. ;-) ) 
+
+it's the same ... then i presumed the Y carrer... the problem of translation and words and code... and show ... 
+
+that what i said... we are running aat... 2mg.. with n ... agents... need 4mgb for more n agents...
+
+this is done just with a certain level of immutability.. 
