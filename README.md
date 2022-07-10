@@ -73,3 +73,7 @@ taxonomy are the losses and the gains is where you represent... the thing after 
 you are saying that if i sign this "you are with me..." that's is my actual bussiness where i was working... "fuck fuck fuck"
 
 that thing that end ... was the best... undestand that ... the small pieces of code under "very determined conext are ideas..."
+
+that say we are important.. we shall point ... that the best model reproves... such actions ... and we cannot adopt your model under our model.. 
+
+unless you agree to certain changes... because we cannot hurt the image of the technoly that we proposing to adopt.
