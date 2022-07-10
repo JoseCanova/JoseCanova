@@ -33,6 +33,8 @@ but how i said... "I never saw that"... then i read a concern ...
 
 that versions of database models are coming back... i realized why..
 
+In matter of fact my 2 friends were betting ... hum... "10 days... 20days until he going to stress?"
+
 but i never saw that. https://www.youtube.com/watch?v=JGwWNGJdvx8&list=RD7F8MJE91Py8&index=27
 
 "_OLD"... that thing fucked me big... :-) imagine.. they know ... 
