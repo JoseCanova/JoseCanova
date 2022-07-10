@@ -102,4 +102,4 @@ that page stuff.. that is "different from sql server ..." need to check..
 
 just because that see how complicated... the things are... not because nothing... that thing of 'pages'... 
 
-I boss ... I chief... chief can have whatever he/she as "technical assistants."
+1 boss ... 1 chief... chief can have whatever he/she as "technical assistants."
