@@ -93,3 +93,5 @@ It the tarot cards... Y carrer... he is friend... i pointed where he will have p
 and if this problem appear.. you are mine... 
 
 you dont need to change that shit ... im assure you... that oracle haven't change the way of the things are on that point. because this oracle way.. 
+
+Larry Ellison said.. you should that we moving the thing to memory.. which means ... that ... finnaly we can go back to our models.. 
