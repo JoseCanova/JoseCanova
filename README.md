@@ -49,3 +49,7 @@ but i never saw that. https://www.youtube.com/watch?v=JGwWNGJdvx8&list=RD7F8MJE9
 they are giant ... king... educated... people... 
 
 i am programmed to think combinations.
+
+chainning things reduce the mutability... https://www.youtube.com/watch?v=NhisVOQb6gU&list=RD7F8MJE91Py8&index=27
+
+fuck he last speech.. we are closed... (except me he had be... this is the week.. ;-) ) 
