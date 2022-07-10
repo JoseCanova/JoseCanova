@@ -183,3 +183,5 @@ so memories... are bad... just are that one... "that come from you".
 His/her life ... https://www.youtube.com/watch?v=mKlF9o2R3cI&list=RDGMEM_v2KDBP3d4f8uT-ilrs8fQ&index=9
 
 fuck shit complicaated but it's the things...
+
+as your 1 product 1 patent at month... second month.. "i will think on something better..."
