@@ -185,3 +185,7 @@ His/her life ... https://www.youtube.com/watch?v=mKlF9o2R3cI&list=RDGMEM_v2KDBP3
 fuck shit complicaated but it's the things...
 
 as your 1 product 1 patent at month... second month.. "i will think on something better..."
+
+what you expect? i'm you friend... https://www.youtube.com/watch?v=GL56LY6fE0E&list=RDGMEM_v2KDBP3d4f8uT-ilrs8fQ&index=23
+
+look who let me there... 
