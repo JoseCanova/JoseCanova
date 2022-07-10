@@ -119,3 +119,5 @@ the guy on next knows whaat to handle mutbility... if he is "merging data"... he
 And the stakeholder knows what could happen and its justified if i present a idea...
 
 Ow.. that's it ? its not a bad idea if we isolate .. the mutaations on something that deal just with it.. 
+
+It's not personall ... it's mutation... we can cause it... but 'it's ... mutation'... reducing... weird things solves.. 
