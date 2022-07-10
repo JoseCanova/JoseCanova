@@ -127,3 +127,9 @@ I'm doing the transformations and i saw.. ops the gave the rules... which.. mean
 isn't perfect? the timming was perfect :-) 
 
 What if ? if that meeting didn't exist... and some other assumptions could be removed... aw... welll ... the d-d... was almost finished.
+
+That thing "show to chief what you did... " it's not time chief... 
+
+small , 30 yrs younger... but it's my chief... she owns that rule.... 
+
+she need to ask whatever she wants... but she.
