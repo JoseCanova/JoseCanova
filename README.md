@@ -101,3 +101,5 @@ And with that ... things that are oracle is oracle... that thing is good ... on 
 that page stuff.. that is "different from sql server ..." need to check.. 
 
 just because that see how complicated... the things are... not because nothing... that thing of 'pages'... 
+
+I boss ... I chief... chief can have whatever he/she as "technical assistants."
