@@ -103,3 +103,9 @@ that page stuff.. that is "different from sql server ..." need to check..
 just because that see how complicated... the things are... not because nothing... that thing of 'pages'... 
 
 1 boss ... 1 chief... chief can have whatever he/she as "technical assistants."
+
+Defending the boss and my friend.. immutability is our time but not our fault.. https://www.youtube.com/watch?v=LNyIhirtXUI&list=RDGMEM_v2KDBP3d4f8uT-ilrs8fQ&start_radio=1&rv=7nPy1Bpmisw
+
+see... we should handle with all mutation... ah fuck offf... 
+
+oracle native + jdbc... = problems.. 
