@@ -155,3 +155,7 @@ i pointed the problem , the error and when will happen (this is an estimation)..
  Her senior..https://www.youtube.com/watch?v=UijNItgdc3U&list=RDGMEM_v2KDBP3d4f8uT-ilrs8fQ&index=6
  
  she must have no doubt about him.. 
+ 
+ interesting... https://www.youtube.com/watch?v=W3q8Od5qJio&list=RDGMEM_v2KDBP3d4f8uT-ilrs8fQ&index=7
+ 
+ because.... why i have to talk to someoneelse... gezz... that is a lot of people... 
