@@ -159,3 +159,7 @@ i pointed the problem , the error and when will happen (this is an estimation)..
  interesting... https://www.youtube.com/watch?v=W3q8Od5qJio&list=RDGMEM_v2KDBP3d4f8uT-ilrs8fQ&index=7
  
  because.... why i have to talk to someoneelse... gezz... that is a lot of people... 
+ 
+ And we will laugh.. because ... failed to generate the model... they know what i did... 
+ 
+ not completed... but we can generate this model too... ;-)
