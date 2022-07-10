@@ -33,6 +33,14 @@ but how i said... "I never saw that"... then i read a concern ...
 
 that versions of database models are coming back... i realized why..
 
+After reducing the mutability then think about increase speed... grpc... is a migration after all... 
+
+mutability is chain the things.. avoid the "document encapsulation this is important"... 
+
+transformation is "role of the programmer"... which means... the last backend man... 
+
+
+
 In matter of fact my 2 friends were betting ... hum... "10 days... 20days until he going to stress?"
 
 but i never saw that. https://www.youtube.com/watch?v=JGwWNGJdvx8&list=RD7F8MJE91Py8&index=27
