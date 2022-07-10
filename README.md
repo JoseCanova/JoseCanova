@@ -139,3 +139,9 @@ Inquiring.. to acquire feeling...
 https://www.youtube.com/watch?v=RVUK2rtAkJE&list=RDGMEM_v2KDBP3d4f8uT-ilrs8fQ&index=3
 
 need to be convinced... at end... 
+
+and she saw the terror at friday.. that's it... the boss if the boss your are the chief..
+
+i pointed the problem , the error and when will happen (this is an estimation)... this what im built for... 
+
+ was fast... "Hibernate generate..."
