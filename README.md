@@ -151,3 +151,7 @@ i pointed the problem , the error and when will happen (this is an estimation)..
  its strictly correct and for now... "nothing happens"...
  
  it's part of Y direct... follow... and believe.. https://www.youtube.com/watch?v=y65U8omaAq4&list=RDGMEM_v2KDBP3d4f8uT-ilrs8fQ&index=5
+ 
+ Her senior..https://www.youtube.com/watch?v=UijNItgdc3U&list=RDGMEM_v2KDBP3d4f8uT-ilrs8fQ&index=6
+ 
+ she must have no doubt about him.. 
