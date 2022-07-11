@@ -230,4 +230,4 @@ we dont respect ethics we are acm 2.0... continue dreamming..
 
 eles tem um filho bebado... mas é filho.. https://www.youtube.com/watch?v=lItwOrAoOKU&list=RDGMEMJQXQAmqrnmK1SEjY_rKBGA&index=6
 
-
+se levar um peh na bunda não precisa pensar em produto em até arrumar outro emprego... 
