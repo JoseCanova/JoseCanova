@@ -32,6 +32,8 @@ round trips.
 now continue the tests.
 
 I am doing what i have planned to show tomorrow. but this weekend i didn't worked well as planned. 
+And i know , it will not have "the show part" i know. but, as i said that i will try to reach a point that i estimated. 
+Trying to reach it. 
 
 Working fine. the change on format causes some problems. by the lucky i preserved the format.
 
