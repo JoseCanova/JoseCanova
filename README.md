@@ -57,4 +57,4 @@ which means configure all this "helper classes as beans".
 
 the model doesn't fit.. hum... good hum?
 
-what does it means? dont need modelmapper. its uselless you model one into another.  no need. to difficult. so.. use the new mode. DTO.
+what does it means? dont need modelmapper. its uselless you model one into another.  no need. to difficult. so.. use the new model. DTO.
