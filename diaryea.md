@@ -33,6 +33,8 @@ After reducing the mutability then think about increase speed... grpc... is a mi
 
 mutability is chain the things.. avoid the "document encapsulation this is important"... 
 
+i will bring here what is opensource.. and try to stay calm. 
+
 transformation is "role of the programmer"... which means... the last backend man... 
 
 In matter of fact my 2 friends were betting ... hum... "10 days... 20days until he going to stress?"
