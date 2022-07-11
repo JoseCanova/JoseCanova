@@ -207,3 +207,6 @@ Either is important ... even if ...
 
 https://www.youtube.com/watch?v=p0D-w-HhB64
 
+https://www.youtube.com/watch?v=Mqfwbf3X8SA advided stuff.. is "with us"... 
+
+
