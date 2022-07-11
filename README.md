@@ -8,7 +8,15 @@
 JoseCanova/JoseCanova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-### People are fun. 
+### Let me think. 
+On the application, opensource, im not a hero, so, work for tommorrow.
+1 - The application of the thing, well, it's almost like the "Postman Flow (i remember a meeting)". with the difference that is on "practical mode" not testing mode. The restapi if well thinked can turned into production ready (for queries is quite simple , for updates operation need to know the database very well but can be used too) since is working with projections.
+
+  Which means that for queries is just create the correct path, in a "better worlds model". The taxonomy need to analyzed to not collide namespaces, model mapper shows that its a common practice. But as soon it cames up is production ready for queries, this is amazing. 
+  why?
+  because a cache can be defined in specific parts of the "query path". see? 
+
+People are fun. 
 I understood, it will work, but its now a work to do alone. There are a lot of small things, that need to be described somewhere. No crystal balls, probably a story shall exist because there are some details to describe on the services. some are simples other dont and we need some description to compare the actual with the "service that will replace".  Not that big issue, but jsut this can take 2 days to understand. 
 
 
