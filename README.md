@@ -45,3 +45,10 @@ let me see i mount the pojos . now i fixing the return methods of the api. (mock
 
 all by hand because nothing is working.
 
+ModelMapper seems to be "verbose" but more appropriate. 
+
+just the case to "put in the right package" the mapping classes.
+
+i thought on other methods. but its mode appropriate. and will the "no mutability" principle.
+
+which means configure all this "helper classes as beans".
