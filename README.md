@@ -235,4 +235,4 @@ se levar um peh na bunda não precisa pensar em produto em até arrumar outro em
 someone say.. no , no, i have a PO that the mother was rapped... and an advisor .. that fough on Berlin ... does anyone knows ... what fuck means... ?
 Company news alerted me about this,,, 
 
-
+Boss preparing the breakfast... everyday..
