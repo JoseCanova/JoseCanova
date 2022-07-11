@@ -14,3 +14,8 @@ second part... affect all ... all
 
 It's a problem... even with a good idea... im really fucked up
 
+To not blow me ... i will believe on me... that's is what is left.. 
+
+I believe on me.. for sure.. but... you did again... 
+
+congrats.. 
