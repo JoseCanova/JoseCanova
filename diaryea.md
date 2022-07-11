@@ -249,3 +249,6 @@ preparing the classes .. for i called attribute rewrite.
 
 let finish what i estimate that can be done until tomorrow.
 
+incredible the coincidence and that day a disgrace on japan. 
+
+why such coincidences aren't positive things?
