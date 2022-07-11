@@ -196,3 +196,9 @@ And I know what will happen tomorrow.. and fuck fuck ... shit shit...
 i tried to program my self... because all of this... 
 
 dont ask me something... that is interesting... 
+
+"by the way..." "we solved a giant understanding..." 
+
+https://www.youtube.com/watch?v=8Pa9x9fZBtY
+
+this gave a lot of time... at least 2 years boss..
