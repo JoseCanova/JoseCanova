@@ -40,3 +40,8 @@ I need to read this code - http://modelmapper.org/getting-started/
 i write to not get mad.. i forgot that i could write here. its a blog too. more appropriate indeed. 
 
 well... i forgot. as i forgot a lot of things.
+
+let me see i mount the pojos . now i fixing the return methods of the api. (mock and controller). 
+
+all by hand because nothing is working.
+
