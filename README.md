@@ -227,3 +227,7 @@ he knows what dangereous ... is nowbody give a handshake... monster...
 An accident.. "we are we"... 
 
 we dont respect ethics we are acm 2.0... continue dreamming.. 
+
+eles tem um filho bebado... mas é filho.. https://www.youtube.com/watch?v=lItwOrAoOKU&list=RDGMEMJQXQAmqrnmK1SEjY_rKBGA&index=6
+
+
