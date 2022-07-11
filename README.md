@@ -54,3 +54,7 @@ just the case to "put in the right package" the mapping classes.
 i thought on other methods. but its mode appropriate. and will the "no mutability" principle.
 
 which means configure all this "helper classes as beans".
+
+the model doesn't fit.. hum... good hum?
+
+what does it means? dont need modelmapper. its uselless you model one into another.  no need. to difficult. so.. use the new mode. DTO.
