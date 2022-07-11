@@ -60,3 +60,8 @@ the model doesn't fit.. hum... good hum?
 what does it means? dont need modelmapper. its uselless you model one into another.  no need. to difficult. so.. use the new model. DTO.
 
 Now Feign is complainning. I started 1-2 times.. then now is asking for properties. 
+
+Understood. Feign can just be injected in a controller. and and Action is not controller. but this is not a problem indeed was just to check. 
+So. i have to forward. foward to the controller. and send it back to the action as i configured.
+But now need to think that he need to understand what means a method in the new domain name. 
+
