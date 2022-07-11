@@ -65,3 +65,8 @@ Understood. Feign can just be injected in a controller. and and Action is not co
 So. i have to forward. foward to the controller. and send it back to the action as i configured.
 But now need to think that he need to understand what means a method in the new domain name. 
 
+Its not complicate to understand the concept. 
+When is a struts-form, dispatch to struts . then struts forward to the controller. the controller check the method. executes the restquery and returns. 
+when is jquery is on the controller direct. 
+need to adjust the domain and adjust jqueryurl's.
+
