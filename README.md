@@ -22,3 +22,7 @@ found a stackoverflow on lombok...
 the code that generated the classes is buggy (my few hours code) and 
 on somemoment the copy-paste with repeated attributes throwns a StackOverflow.
 interesting.
+
+## checking this
+https://thepracticaldeveloper.com/guide-spring-boot-controller-tests/
+
