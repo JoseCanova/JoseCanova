@@ -26,3 +26,11 @@ interesting.
 ## checking this
 https://thepracticaldeveloper.com/guide-spring-boot-controller-tests/
 
+###Feign need a "port responding".. 
+But is working the unit tests. so. in theory the mockserver on customer environment is just to avoid 
+round trips. 
+now continue the tests.
+
+I am doing what i have planned to show tomorrow. but this weekend i didn't worked well as planned. 
+
+
