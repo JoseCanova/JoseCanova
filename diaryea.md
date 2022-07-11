@@ -238,3 +238,12 @@ tomorrow.. mah... https://www.youtube.com/watch?v=JPbSjmToWXY&list=RDGMEMJQXQAmq
 just close the eyes.. but i decide to think about the best... 
 
 and i did it again..
+
+so thinking here. i'm doing what i proposing to do until tomorrow.
+
+keeping the eye to not get depressed. it's really hard. 
+
+preparing the classes .. for i called attribute rewrite.
+
+let finish what i estimate that can be done until tomorrow.
+
