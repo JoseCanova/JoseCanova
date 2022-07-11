@@ -34,3 +34,5 @@ now continue the tests.
 I am doing what i have planned to show tomorrow. but this weekend i didn't worked well as planned. 
 
 Working fine. the change on format causes some problems. by the lucky i preserved the format.
+
+I need to read this code - http://modelmapper.org/getting-started/
