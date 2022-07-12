@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 After several years. you understand the things on practical model. pick this days. and work in the idea. the depression almost got me. another thing that i remember what is very well. but this is biochemical reactions caused by events that im not on the command.
 I will try to finish and, again to present to someone that could evaluate and check if it's practical since some technicall concerns are beyond my capacity (im not a hero).
 Lets do it.
-Simple to understand, when i finish the crawl, the translated metamodel need to be persisted. mainly because  the part that need to augment the metamodel with information that is not collected on the fly. Cache for example. (for ex. this table can be cached). 
+Simple to understand, when i finish the crawl, the translated metamodel need to be persisted. mainly because  the part that need to augment the metamodel with information that is not collected on the fly. Cache for example. (for ex. this table can be cached). With in memory this is not necessary. But not all databases neither all budgets can spent all of data on memory. if no body is looking for a data it can go to cache (memory) when is acessed.
 
 ### Where i stopped?. 
 Well i generate a metamodel based on a "metamodel definition" , that i need to improve, then after test again the model that i have.
