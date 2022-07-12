@@ -111,6 +111,9 @@ Fuck off.. they are my friends.. before you dream... nobody talk by proxy by the
 
 nothing is wrong.. 
 
+#### hardest than google is sun.. 
+
+it's more much more.. than a brand... it's  word a compromise with ACM... 
 
 Nice - I will try to mount a presentation of the "thesis proposal"... 
 It's almost a thesis. 
