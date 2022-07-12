@@ -101,6 +101,12 @@ On the application, opensource, im not a hero, so, work for tommorrow.
 People are fun. 
 I understood, it will work, but its now a work to do alone. There are a lot of small things, that need to be described somewhere. No crystal balls, probably a story shall exist because there are some details to describe on the services. some are simples other dont and we need some description to compare the actual with the "service that will replace".  Not that big issue, but jsut this can take 2 days to understand. 
 
+### In the words of Google
+
+Fuck off.. they are my friends.. before you dream... nobody talk by proxy by their name.
+
+nothing is wrong.. 
+
 
 Nice - I will try to mount a presentation of the "thesis proposal"... 
 It's almost a thesis. 
