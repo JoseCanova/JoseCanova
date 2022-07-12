@@ -38,7 +38,10 @@ Was that astronaut that google shown to me that "game me legs that i dont have".
 https://www.bbc.com/news/science-environment-62140044
 they know me better than i... 
 and if you ask me... yes... "if i have i gun i commit a mistake..."
+
 3 days crying.
+
+Ethics we learned \at IBM... 
 
 ### Fix the Query
 I know what im talking about... Oracle handle with cursors pages different from SqlServer... which means... even in memory.
