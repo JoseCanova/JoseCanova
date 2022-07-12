@@ -51,6 +51,12 @@ https://www.youtube.com/watch?v=y8OtzJtp-EM&list=RDJDG2m5hN1vo&index=7
 
 If im in USA now.. .im in Tony's house... https://www.youtube.com/watch?v=qsaTFcXVCNU&list=RDJDG2m5hN1vo&index=10
 
+#### talking about with his kids... and discussing capitalism with him.. 
+
+this is what senior is about ... https://www.space.com/21925-james-webb-space-telescope-jwst.html
+
+https://www.youtube.com/watch?v=TLV4_xaYynY&list=RDJDG2m5hN1vo&index=11
+
 #### Same as Collision lets consider Vertext an obstacle... 
 
 https://www.youtube.com/watch?v=hzFpiW5vHrc&list=RDJDG2m5hN1vo&index=8
