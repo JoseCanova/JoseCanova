@@ -13,6 +13,7 @@ The model with generic common atribute, is what flaws a scan without checking th
 2 steps. first add the vertex. then using the fk's add the edges.
 A simple unit test a  problem faster than debug for sure.
 Simple is .. use scan. and in a "aftre edition" can edit. and update the edges (add/remove)
+How to mark bad vertex. because db dont know inheritance. and the path is going to a "generic table". now i know that is not a good practice. but is ORM. 
 ### I will work in the idea.. 
 I looked again.. this is beautifull. need to focus on this for now.  
 After several years. you understand the things on practical model. pick this days. and work in the idea. the depression almost got me. another thing that i remember what is very well. but this is biochemical reactions caused by events that im not on the command.
