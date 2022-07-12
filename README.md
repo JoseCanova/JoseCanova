@@ -47,6 +47,10 @@ Tom (the vp) will say or said... keep as we always deal with it...
 
 https://www.youtube.com/watch?v=y8OtzJtp-EM&list=RDJDG2m5hN1vo&index=7
 
+### Senior is ... 
+
+If im in USA now.. .im in Tony's house... https://www.youtube.com/watch?v=qsaTFcXVCNU&list=RDJDG2m5hN1vo&index=10
+
 #### Same as Collision lets consider Vertext an obstacle... 
 
 https://www.youtube.com/watch?v=hzFpiW5vHrc&list=RDJDG2m5hN1vo&index=8
