@@ -8,6 +8,12 @@
 JoseCanova/JoseCanova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+### I will work in the idea.. 
+After several years. you understand the things on practical model. pick this days. and work in the idea. the depression almost got me. another thing that i remember what is very well. but this is biochemical reactions caused by events that im not on the command.
+
+### Where i stopped?. 
+Well i generate a metamodel based on a "metamodel definition" , that i need to improve, then after test again the model that i have.
+
 ### Let me think. 
 On the application, opensource, im not a hero, so, work for tommorrow.
 1 - The application of the thing, well, it's almost like the "Postman Flow (i remember a meeting)". with the difference that is on "practical mode" not testing mode. The restapi if well thinked can turned into production ready (for queries is quite simple , for updates operation need to know the database very well but can be used too) since is working with projections.
