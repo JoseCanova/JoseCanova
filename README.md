@@ -27,6 +27,10 @@ yeah... they need to check some stuff.//
 
 ## vou exclurir sua conta... falar por eles... falar por ninguem... 
 
+### por meu nome... vai se fude... sou o melhor amigo dele ou dos grandes a muito tempo... 
+
+quer comprometer o chefe...
+
 ´wcoutroc assunto mas é importante.. vai se fuder.. pk ... finnalyh... what we say and laugh.. jezz. asking your presence just for miracles
 
 ### MY BEST FRIENDS ALWAUS.. 
