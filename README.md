@@ -8,6 +8,14 @@
 JoseCanova/JoseCanova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+### Good  Mement.. 
+
+:-) let's adott /// out sick son.. 
+
+good... 
+
+good moment... 
+
 ### About nomenclature
 The model with generic common atribute, is what flaws a scan without checking the "foreign relations", its good and bad. will try to use the "foreign keys" to fix the model graph.
 2 steps. first add the vertex. then using the fk's add the edges.
