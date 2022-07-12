@@ -20,7 +20,9 @@ the fourth in the work...
 
 yeah... they need to check some stuff.// 
 
+### MY BEST FRIENDS ALWAUS.. 
 
+https://www.space.com/21925-james-webb-space-telescope-jwst.html
 
 ### About nomenclature
 The model with generic common atribute, is what flaws a scan without checking the "foreign relations", its good and bad. will try to use the "foreign keys" to fix the model graph.
