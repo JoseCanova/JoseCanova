@@ -29,6 +29,9 @@ YenKShortestPath - with a pathvalidator... (that is just beggining invalid in a 
 Lets keep it simple.. you cannot say that you will collide after you crashed. 
 So.. need avoid a specific vertex.
 
+### 1 litle thing.
+My friends on front putting some fun musics... why they are my friends.. ? 
+We know each other for like 10 years.. (almost)... we didn't exchange a letter. but what is good on this.if someone understand.
 ### Dont make me laugh
 Was that astronaut that google shown to me that "game me legs that i dont have"... 
 https://www.bbc.com/news/science-environment-62140044
