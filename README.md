@@ -15,13 +15,17 @@ A simple unit test a  problem faster than debug for sure.
 Simple is .. use scan. and in a "aftre edition" can edit. and update the edges (add/remove)
 How to mark bad vertex. because db dont know inheritance. and the path is going to a "generic table". now i know that is not a good practice. but is ORM. 
 
-####need to remodel that "base type" too generic.
+#### Need to remodel that "base type" too generic.
 and "for some reason" is good but it's bad. first will look the pathvalidator let's see if it fix.
 
-####Fixed the MetaEdge... suggest good code. who uses jgrapht 
+#### Fixed the MetaEdge... suggest good code. who uses jgrapht 
 knows the edge intrusive and need to ne intrusive to work with the source/target///
 since classes are the most immutable thing on java. 
 in this schenario you can invade the privacy of the default attributes.
+
+### Important is the answer is correct. 
+The engine don't that "this table" is a "special kind of table... need to check how to fix such "genericity",
+seems like a "inspection phase"...  which kind of table is you.?
 
 ### I will work in the idea.. 
 I looked again.. this is beautifull. need to focus on this for now.  
