@@ -29,6 +29,11 @@ YenKShortestPath - with a pathvalidator... (that is just beggining invalid in a 
 Lets keep it simple.. you cannot say that you will collide after you crashed. 
 So.. need avoid a specific vertex.
 
+### Dont make me laugh
+Was that astronaut that google shown to me that "game me legs that i dont have"... 
+https://www.bbc.com/news/science-environment-62140044
+they know me better than i... 
+
 ### Important is the answer is correct. 
 The engine don't that "this table" is a "special kind of table... need to check how to fix such "genericity",
 seems like a "inspection phase"...  which kind of table is you.?
