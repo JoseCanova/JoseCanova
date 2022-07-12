@@ -10,6 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ### About nomenclature
 The model with generic common atribute, is what flaws a scan without checking the "foreign relations", its good and bad. will try to use the "foreign keys" to fix the model graph.
+2 steps. first add the vertex. then using the fk's add the edges.
 ### I will work in the idea.. 
 I looked again.. this is beautifull. need to focus on this for now.  
 After several years. you understand the things on practical model. pick this days. and work in the idea. the depression almost got me. another thing that i remember what is very well. but this is biochemical reactions caused by events that im not on the command.
