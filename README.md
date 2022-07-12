@@ -40,6 +40,10 @@ they know me better than i...
 and if you ask me... yes... "if i have i gun i commit a mistake..."
 3 days crying.
 
+### Fix the Query
+I know what im talking about... Oracle handle with cursors pages different from SqlServer... which means... even in memory.
+Tom (the vp) will say or said... keep as we always deal with it... 
+
 ### Important is the answer is correct. 
 The engine don't that "this table" is a "special kind of table... need to check how to fix such "genericity",
 seems like a "inspection phase"...  which kind of table is you.?
