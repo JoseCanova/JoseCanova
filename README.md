@@ -70,6 +70,12 @@ https://www.youtube.com/watch?v=TLV4_xaYynY&list=RDJDG2m5hN1vo&index=11
 
 https://www.youtube.com/watch?v=hzFpiW5vHrc&list=RDJDG2m5hN1vo&index=8
 
+### you virtual bare metal... ]
+if Page dreams about it... !why you left die by starvation? 
+And he is a good friend..
+That's is his answer... 
+
+https://www.youtube.com/watch?v=vj_rvLVpqg8&list=RDJDG2m5hN1vo&index=15
 
 look at that... 
 ### Important is the answer is correct. 
