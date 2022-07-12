@@ -23,6 +23,9 @@ knows the edge intrusive and need to ne intrusive to work with the source/target
 since classes are the most immutable thing on java. 
 in this schenario you can invade the privacy of the default attributes.
 
+### Shannon Rat. 
+YenKShortestPath - with a pathvalidator... (that is just beggining invalid in a context).
+
 ### Important is the answer is correct. 
 The engine don't that "this table" is a "special kind of table... need to check how to fix such "genericity",
 seems like a "inspection phase"...  which kind of table is you.?
