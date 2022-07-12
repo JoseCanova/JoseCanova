@@ -14,7 +14,9 @@ On the application, opensource, im not a hero, so, work for tommorrow.
 
   Which means that for queries is just create the correct path, in a "better worlds model". The taxonomy need to analyzed to not collide namespaces, model mapper shows that its a common practice. But as soon it cames up is production ready for queries, this is amazing. 
   why?
-  because a cache can be defined in specific parts of the "query path". see? 
+  because a cache can be defined in specific parts of the "query path". see?
+  For examplex.. you a have a query that is defined by 4 tables. without second level cache. just table by table. you define a cache you can pre-configure the cache.
+  need to check how to do this.
 
 People are fun. 
 I understood, it will work, but its now a work to do alone. There are a lot of small things, that need to be described somewhere. No crystal balls, probably a story shall exist because there are some details to describe on the services. some are simples other dont and we need some description to compare the actual with the "service that will replace".  Not that big issue, but jsut this can take 2 days to understand. 
