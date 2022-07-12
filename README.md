@@ -43,6 +43,12 @@ and if you ask me... yes... "if i have i gun i commit a mistake..."
 
 Ethics we learned \at IBM... 
 
+
+### if you see something talk with your doesn't matter the consequences... 
+
+It's your obligation
+
+
 ### Fix the Query
 I know what im talking about... Oracle handle with cursors pages different from SqlServer... which means... even in memory.
 Tom (the vp) will say or said... keep as we always deal with it... 
