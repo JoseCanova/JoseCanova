@@ -38,6 +38,7 @@ Was that astronaut that google shown to me that "game me legs that i dont have".
 https://www.bbc.com/news/science-environment-62140044
 they know me better than i... 
 and if you ask me... yes... "if i have i gun i commit a mistake..."
+3 days crying.
 
 ### Important is the answer is correct. 
 The engine don't that "this table" is a "special kind of table... need to check how to fix such "genericity",
