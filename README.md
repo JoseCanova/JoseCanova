@@ -16,6 +16,12 @@ good...
 
 good moment... 
 
+the fourth in the work... 
+
+yeah... they need to check some stuff.// 
+
+
+
 ### About nomenclature
 The model with generic common atribute, is what flaws a scan without checking the "foreign relations", its good and bad. will try to use the "foreign keys" to fix the model graph.
 2 steps. first add the vertex. then using the fk's add the edges.
