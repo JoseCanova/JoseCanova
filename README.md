@@ -43,7 +43,11 @@ and if you ask me... yes... "if i have i gun i commit a mistake..."
 ### Fix the Query
 I know what im talking about... Oracle handle with cursors pages different from SqlServer... which means... even in memory.
 Tom (the vp) will say or said... keep as we always deal with it... 
+##### Telling this joke to Tony hum? joje in my asss...
 
+https://www.youtube.com/watch?v=y8OtzJtp-EM&list=RDJDG2m5hN1vo&index=7
+
+look at that... 
 ### Important is the answer is correct. 
 The engine don't that "this table" is a "special kind of table... need to check how to fix such "genericity",
 seems like a "inspection phase"...  which kind of table is you.?
