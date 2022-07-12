@@ -52,7 +52,7 @@ Lets do it.
 Simple to understand, when i finish the crawl, the translated metamodel need to be persisted. mainly because  the part that need to augment the metamodel with information that is not collected on the fly. Cache for example. (for ex. this table can be cached). With in memory this is not necessary. But not all databases neither all budgets can spent all of data on memory. if no body is looking for a data it can go to cache (memory) when is acessed.
 
 #### the old man... https://www.youtube.com/watch?v=rMbATaj7Il8&list=RDJDG2m5hN1vo&index=3
-
+he did exactly what he said to me... if im strong enough... i will broke that hospital...
 ### Where i stopped?. 
 Well i generate a metamodel based on a "metamodel definition" , that i need to improve, then after test again the model that i have.
 
