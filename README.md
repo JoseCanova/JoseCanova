@@ -10,6 +10,10 @@ You can click the Preview link to take a look at your changes.
 --->
 @@@
 https://www.youtube.com/watch?v=Izd2qOgOGQI
+vision for kids. 
+continue with the interface - afternoon.
+need to rest a little. such movies doesn't help because does not explain to much interesting things.
+but they are cool.
 ### Good part is that now i have a small fever. so i can rest with justification. 
 this cold winter is quite cold.
 
