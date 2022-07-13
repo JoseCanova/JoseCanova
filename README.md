@@ -12,6 +12,9 @@ You can click the Preview link to take a look at your changes.
 
 ### Fixing the path with a edge-vertex validator.
 Time to start the test on avoid vertex on edge (it's valid). consider the vertex like an obstacle.
+At least this. It worked as "expected". Amazing. 
+Need to read carefully but seems that worked very well; 
+I as give a path from Artist to Recording.
 
 ### About nomenclature
 The model with generic common atribute, is what flaws a scan without checking the "foreign relations", its good and bad. will try to use the "foreign keys" to fix the model graph.
