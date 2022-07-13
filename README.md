@@ -14,7 +14,9 @@ vision for kids.
 continue with the interface - afternoon.
 need to rest a little. such movies doesn't help because does not explain to much interesting things.
 but they are cool.
-amazing.. i thought about cancer. need a checkup can be in the brain too. and causes flutuations of humour.
+amazing.. i thought about cancer. need a checkup can be in the brain too. and causes flutuations of humour.] fun
+
+https://www.youtube.com/watch?v=OhCzX0iLnOc fun.
 
 ### Good part is that now i have a small fever. so i can rest with justification. 
 this cold winter is quite cold.
