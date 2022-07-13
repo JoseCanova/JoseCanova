@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JoseCanova
 - 👀 I’m interested in ...computing
 - 🌱 I’m currently learning ... java as usual (eternity learning)
-- 💞️ I’m looking to collaborate on ... earn some money... lots of debts..
+- 💞️ I’m looking to collaborate on ... earn some money... lots of debts..u
 - 📫 How to reach me ... well. lets get all here.
 
 <!---
@@ -14,6 +14,8 @@ vision for kids.
 continue with the interface - afternoon.
 need to rest a little. such movies doesn't help because does not explain to much interesting things.
 but they are cool.
+amazing.. i thought about cancer. need a checkup can be in the brain too. and causes flutuations of humour.
+
 ### Good part is that now i have a small fever. so i can rest with justification. 
 this cold winter is quite cold.
 
