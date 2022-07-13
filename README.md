@@ -68,19 +68,10 @@ https://www.bbc.com/news/science-environment-62140044
 they know me better than i... 
 and if you ask me... yes... "if i have i gun i commit a mistake..."
 
-3 days crying.
 
-Ethics we learned \at IBM... 
-
-your google account... what this person's are talking about... ?
 
 ### You google account ... wtf... what you are saying... 
 
-its not about money... it's science... admiration.. friendshiot.. jezz holy christy...
-
-### if you see something talk with your doesn't matter the consequences... 
-
-It's your obligation
 
 
 ### Fix the Query
