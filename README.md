@@ -6,6 +6,8 @@
 
 Need to store here my codes. in a private project.
 
+Will watch my movie, tomorrow go to the bank and check if all is ok. 
+
 <!---
 JoseCanova/JoseCanova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
