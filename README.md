@@ -19,8 +19,10 @@ Need to read carefully but seems that worked very well;
 I as give a path from Artist to Recording.
 It presented 2 solutions.
 
-It's quite interesting. The maze presents 2 solutions. 
+It's quite interesting. The maze presents 2 solutions.
 1 with 5 nodes (weight 5) and other with 6 nodes (weight 6).
+Need to import the DB (this is not a big problem), and define a criteria of evaluation of the paths. that is if both generate the same solution, and if not at which part of the "invalid path" that does not generate a valid solution shall be marked as on such context is invalid. 
+But its promising something interesting. 
 
 ### About nomenclature
 The model with generic common atribute, is what flaws a scan without checking the "foreign relations", its good and bad. will try to use the "foreign keys" to fix the model graph.
