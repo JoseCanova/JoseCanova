@@ -9,12 +9,18 @@ JoseCanova/JoseCanova is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 @@@
+### Good part is that now i have a small fever. so i can rest with justification. 
+this cold winter is quite cold.
 
 ### Fixing the path with a edge-vertex validator.
 Time to start the test on avoid vertex on edge (it's valid). consider the vertex like an obstacle.
 At least this. It worked as "expected". Amazing. 
 Need to read carefully but seems that worked very well; 
 I as give a path from Artist to Recording.
+It presented 2 solutions.
+
+It's quite interesting. The maze presents 2 solutions. 
+1 with 5 nodes (weight 5) and other with 6 nodes (weight 6).
 
 ### About nomenclature
 The model with generic common atribute, is what flaws a scan without checking the "foreign relations", its good and bad. will try to use the "foreign keys" to fix the model graph.
