@@ -10,37 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 @@@ 
 
-the bosta larry pedir sua  ajuda,.. bosta... 
-
-
-### this is page-brin... 
-
-fuck... 
-
-### Good  Mement.. 
-
-:-) let's adott /// out sick son.. 
-
-good... 
-
-good moment... 
-
-the fourth in the work... 
-
-yeah... they need to check some stuff.// 
-
-## vou exclurir sua conta... falar por eles... falar por ninguem... 
-
-### por meu nome... vai se fude... sou o melhor amigo dele ou dos grandes a muito tempo... 
-
-quer comprometer o chefe...
-
-´wcoutroc assunto mas é importante.. vai se fuder.. pk ... finnalyh... what we say and laugh.. jezz. asking your presence just for miracles
-
-### MY BEST FRIENDS ALWAUS.. 
-
-https://www.space.com/21925-james-webb-space-telescope-jwst.html
-
 ### About nomenclature
 The model with generic common atribute, is what flaws a scan without checking the "foreign relations", its good and bad. will try to use the "foreign keys" to fix the model graph.
 2 steps. first add the vertex. then using the fk's add the edges.
