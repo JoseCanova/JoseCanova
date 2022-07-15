@@ -7,6 +7,9 @@
 
 Jezz its too much for me.
 
+With all good mood my layer need to advise the workd.
+Better we think better about him.
+
 Then as usual someone to cqll ...she could
 Be my daughter with this mood..
 I told her..at least i need to evaluate 
