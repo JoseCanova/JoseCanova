@@ -7,6 +7,9 @@
 
 Jezz its too much for me.
 
+Thats it...simple but ..curious..
+Spectral boot..
+
 Literally..i really prefer..because i felt something.
 And this is related to my job.
 Its mapped its right.
