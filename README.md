@@ -7,6 +7,9 @@
 
 Jezz its too much for me.
 
+Many things ok...
+Decades of absyractions and implications.
+
 Thats it...simple but ..curious..
 Spectral boot..
 
