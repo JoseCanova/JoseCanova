@@ -4,6 +4,17 @@
 - 💞️ I’m looking to collaborate on ... earn some money... lots of debts..u
 - 📫 How to reach me ... well. lets get all here.
 
+
+Jezz its too much for me.
+
+Then as usual someone to cqll ...she could
+Be my daughter with this mood..
+I told her..at least i need to evaluate 
+My problem...
+ And thats it...
+Its my fault as usual..and we go on the next step.
+
+
 Need to store here my codes. in a private project.
 
 Will watch my movie, tomorrow go to the bank and check if all is ok. 
