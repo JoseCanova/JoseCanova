@@ -6,6 +6,7 @@
 
 
 Jezz its too much for me.
+A movie and take a rest...
 
 Many things ok...
 Decades of absyractions and implications.
