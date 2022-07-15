@@ -7,6 +7,11 @@
 
 Jezz its too much for me.
 
+Literally..i really prefer..because i felt something.
+And this is related to my job.
+Its mapped its right.
+Now its try to finish and automatize.
+
 With all good mood my layer need to advise the workd.
 Better we think better about him.
 
