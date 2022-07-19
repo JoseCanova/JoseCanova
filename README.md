@@ -4,6 +4,13 @@
 - 💞️ I’m looking to collaborate on ... earn some money... lots of debts..u
 - 📫 How to reach me ... well. lets get all here.
 
+Yeah. Amazing. The president pointing some "issues"
+Dont know he has a point.
+Before all of this insanity i will go to the embassy.
+I need to ask . The minimum that i can do for me 
+Under the topic. Like Im not from here.
+The translated docs are here.
+Seems like bs. But its not.
 
 Jezz its too much for me.
 A movie and take a rest...
