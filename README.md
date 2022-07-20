@@ -4,6 +4,11 @@
 - 💞️ I’m looking to collaborate on ... earn some money... lots of debts..u
 - 📫 How to reach me ... well. lets get all here.
 
+Holy mother.
+ My brother say "do not say leys pray"..
+Oh yeah?from what i said few moments im prokissing money from how mane beera we can takem.
+
+Complicated but fun..
 
 3min of thinking..yhen we got shocked..
 We got it..its the perfect sample..
