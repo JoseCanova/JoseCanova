@@ -10,6 +10,11 @@ And choose rhe beer..
 I think ...this message from god...beer is too old..
 I mmutable..
 
+That  giant worm built over legs and arms and bones..
+Another field of  study..guided ethiics
+
+Do you know why ethics is so clise to ethilics?
+Ah the owner of ethic is your neighboor.
 
 
 Its a trabsition that i havent explored yet.
