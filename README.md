@@ -4,15 +4,26 @@
 - 💞️ I’m looking to collaborate on ... earn some money... lots of debts..u
 - 📫 How to reach me ... well. lets get all here.
 
+
+
 I thought a lot... will use MOF if someone why..
 Was developed but a friend of mine.
 
 Kkkkkkkk...
 
 Why? Reinvent the wheel while not focusing in the "favility business"
+I must imagine that i m with  my friends.
+And we are brainstorming the conctete first step
+On automation on our job.
 
+I was discussing with my brother..
+Like "do you remember that books that you had.."
+We both read was the literature at table...
+"Byte code that generate bytecode"
 
+Bullshit..
 
+Its "oh oh "
 
 Yeah. Amazing. The president pointing some "issues"
 Dont know he has a point.
