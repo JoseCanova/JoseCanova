@@ -4,6 +4,10 @@
 - 💞️ I’m looking to collaborate on ... earn some money... lots of debts..u
 - 📫 How to reach me ... well. lets get all here.
 
+
+3min of thinking..yhen we got shocked..
+We got it..its the perfect sample..
+Pick a beer...
 Indeed the top of the top is that thing on the "flie"
 Its is exactly to stay in frint of a refrigerator
 And choose rhe beer..
