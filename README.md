@@ -4,7 +4,12 @@
 - 💞️ I’m looking to collaborate on ... earn some money... lots of debts..u
 - 📫 How to reach me ... well. lets get all here.
 
+Its a trabsition that i havent explored yet.
+Me planet earth and the universe...hehehe
+I prefer computing...we are in the 50s .."who planned this shir for me?"
 
+The alan turing flm is thats it..
+Youbasked...
 
 I thought a lot... will use MOF if someone why..
 Was developed but a friend of mine.
