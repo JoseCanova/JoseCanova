@@ -4,6 +4,16 @@
 - 💞️ I’m looking to collaborate on ... earn some money... lots of debts..u
 - 📫 How to reach me ... well. lets get all here.
 
+I thought a lot... will use MOF if someone why..
+Was developed but a friend of mine.
+
+Kkkkkkkk...
+
+Why? Reinvent the wheel while not focusing in the "favility business"
+
+
+
+
 Yeah. Amazing. The president pointing some "issues"
 Dont know he has a point.
 Before all of this insanity i will go to the embassy.
