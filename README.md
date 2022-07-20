@@ -4,6 +4,14 @@
 - 💞️ I’m looking to collaborate on ... earn some money... lots of debts..u
 - 📫 How to reach me ... well. lets get all here.
 
+Indeed the top of the top is that thing on the "flie"
+Its is exactly to stay in frint of a refrigerator
+And choose rhe beer..
+I think ...this message from god...beer is too old..
+I mmutable..
+
+
+
 Its a trabsition that i havent explored yet.
 Me planet earth and the universe...hehehe
 I prefer computing...we are in the 50s .."who planned this shir for me?"
