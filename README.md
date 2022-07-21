@@ -11,7 +11,8 @@ Talk with my brother best friend is the best.
 I told him..was your book
 You bought ..i read.. we read it..
 
-
+He thought the same so i said pay attention..
+On what i did..
  My brother say "do not say leys pray"..
 Oh yeah?from what i said few moments im prokissing money from how mane beera we can takem.
 
