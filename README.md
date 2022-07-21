@@ -4,6 +4,12 @@
 - 💞️ I’m looking to collaborate on ... earn some money... lots of debts..u
 - 📫 How to reach me ... well. lets get all here.
 
+https://youtu.be/XMl6HnhFFIA
+
+This generation
+
+Normal..bytecode that mounts bytecode
+
 Holy mother.
 
 Hes is same old than i..
