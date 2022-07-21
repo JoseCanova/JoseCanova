@@ -5,6 +5,13 @@
 - 📫 How to reach me ... well. lets get all here.
 
 Holy mother.
+
+Talk with my brother best friend is the best.
+
+I told him..was your book
+I bought ..i read..
+
+
  My brother say "do not say leys pray"..
 Oh yeah?from what i said few moments im prokissing money from how mane beera we can takem.
 
