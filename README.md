@@ -6,6 +6,14 @@
 
 https://youtu.be/XMl6HnhFFIA
 
+Invite before just cite.
+
+
+Vlad..let analyze undetstand and write about.m
+
+Impeddnce mismatch.
+Then. Try to explain the field of study
+
 This generation
 
 Unanimous decision..you need to retire by madmess
