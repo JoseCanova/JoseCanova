@@ -4,6 +4,12 @@
 - 💞️ I’m looking to collaborate on ... earn some money... lots of debts..u
 - 📫 How to reach me ... well. lets get all here.
 
+
+We need an immortal day..
+Who are my friends?
+
+One of them keep saynig about the immoryal kings of sumetia..
+
 https://youtu.be/XMl6HnhFFIA
 
 The importance of nothing
