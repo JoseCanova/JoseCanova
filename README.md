@@ -9,7 +9,7 @@ Holy mother.
 Talk with my brother best friend is the best.
 
 I told him..was your book
-I bought ..i read..
+You bought ..i read.. we read it..
 
 
  My brother say "do not say leys pray"..
