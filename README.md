@@ -8,6 +8,9 @@ https://youtu.be/XMl6HnhFFIA
 
 This generation
 
+Unanimous decision..you need to retire by mafn
+
+
 Normal..bytecode that mounts bytecode
 
 Holy mother.
@@ -19,6 +22,8 @@ And fuck all assholes..
 
 Talk with my brother best friend is the best.
 
+
+Hehehehe
 I told him..was your book
 You bought ..i read.. we read it..
 
