@@ -8,6 +8,14 @@ https://youtu.be/XMl6HnhFFIA
 
 Go map 1200 tables and tell how you did it..
 
+
+Its important also to be used the best yech
+
+And put at tanle what you did for computing
+Besides be a flie over the shit..
+
+Put in your ass the required creditation..
+
 Convluded the same better an asylum..
 No my nrother..its just a dream..
 https://youtu.be/09LTT0xwdfw
