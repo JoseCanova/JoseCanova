@@ -8,7 +8,8 @@ https://youtu.be/XMl6HnhFFIA
 
 This generation
 
-Unanimous decision..you need to retire by mafn
+Unanimous decision..you need to retire by madmess
+I agree..object msnagement group will agree too.
 
 
 Normal..bytecode that mounts bytecode
