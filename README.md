@@ -8,6 +8,10 @@ StepZen..yeah isnt a bad idea. Mainly
 Its good ..if does not have any service
 Better we can fit bellow.
 
+Next == Last sounds like a queue dillema.
+Drop all vertex in a queue and mark visited.
+So put when it appear and call the queue as list and the list as visited.
+Since you have to ask ..is it visited?
 I was thinking about that. I used a list to.
 Verify if a vertex was visited. Because it is 2 different computing.
 The first computing doesnt know nothing about
