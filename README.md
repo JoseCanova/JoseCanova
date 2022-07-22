@@ -8,7 +8,13 @@ StepZen..yeah isnt a bad idea. Mainly
 Its good ..if does not have any service
 Better we can fit bellow.
 
-Next == Last sounds like a queue dillema.
+Which db diagram represents transitions on 
+relational databases. Entity-Relationship?
+That is repreeentented by the constraints
+In the model.
+
+
+Next == Last sounds like a queue willema.
 Drop all vertex in a queue and mark visited.
 So put when it appear and call the queue as list and the list as visited.
 Since you have to ask ..is it visited?
@@ -17,7 +23,7 @@ Verify if a vertex was visited. Because it is 2 different computing.
 The first computing doesnt know nothing about
 The criteria used in the stop condition and vice versa.
 Which means the path can be a fuzzy. Zigzag
-While the stop condition can be anything too.
+While the sesents top condition can be anything too.
 I tested i guess using if next == last
 Which is the answer of the problem. Putting a not in
 Because the assertion need to be inserted 
