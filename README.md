@@ -14,12 +14,16 @@ The first computing doesnt know nothing about
 The criteria used in the stop condition and vice versa.
 Which means the path can be a fuzzy. Zigzag
 While the stop condition can be anything too.
- 
+I tested i guess using if next == last
+Which is the answer of the problem. Putting a not in
+Because the assertion need to be inserted 
+At the correct step of the computing and this
+have changed while solving the problem. 
+So need a polish on next.
 
 mapping 1200 tables and counting.
 
 Its important also to be used the best yech
-
 
 Normal..bytecode that mounts bytecode
 
