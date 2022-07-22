@@ -8,6 +8,14 @@ StepZen..yeah isnt a bad idea. Mainly
 Its good ..if does not have any service
 Better we can fit bellow.
 
+I was thinking about that. I used a list to.
+Verify if a vertex was visited. Because it is 2 different computing.
+The first computing doesnt know nothing about
+The criteria used in the stop condition and vice versa.
+Which means the path can be a fuzzy. Zigzag
+While the stop condition can be anything too.
+ 
+
 mapping 1200 tables and counting.
 
 Its important also to be used the best yech
