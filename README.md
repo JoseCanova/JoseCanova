@@ -16,6 +16,11 @@ to try to use a small footprint db.. (derby or slqlite).
 Decompose the task of clean code and fix all the mess using unit tests. (and thank god) still writing and thinking.
 SnakeCase the zigzag of nonsense... i remember this text... still exists?
 
+
+I received an email in matter of fact 2.. 
+Finally someone understood the obvious.. i need a economic advisor. to take care of my wallyet... :-) 
+Someone thinking... "im not gangster youre not a gangster , lets fix this economic trouble".
+
 Which db diagram represents transitions on 
 relational databases. Entity-Relationship?
 That is repreeentented by the constraints
