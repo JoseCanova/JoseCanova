@@ -8,6 +8,14 @@ StepZen..yeah isnt a bad idea. Mainly
 Its good ..if does not have any service
 Better we can fit bellow.
 
+thinking about how to organize that mess of classes that need a purge and how to "keep things easy"..
+generate some combinations on relations, atribute names. and primary keys.
+
+back to basic, unit tests on small schemas. problem is. some points are not java8 (will bring to java8 compatibility). 
+to try to use a small footprint db.. (derby or slqlite). 
+Decompose the task of clean code and fix all the mess using unit tests. (and thank god) still writing and thinking.
+SnakeCase the zigzag of nonsense... i remember this text... still exists?
+
 Which db diagram represents transitions on 
 relational databases. Entity-Relationship?
 That is repreeentented by the constraints
