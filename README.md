@@ -17,6 +17,15 @@ Decompose the task of clean code and fix all the mess using unit tests. (and tha
 SnakeCase the zigzag of nonsense... i remember this text... still exists?
 
 
+"In my eyes
+Indisposed
+In disguise
+As no one knows
+Hides the face
+Lies the snake
+And the sun
+In my disgrace"
+
 I received an email in matter of fact 2.. 
 1- Finally someone understood the obvious.. i need a economic advisor. to take care of my wallyet... :-) 
 Someone thinking... "im not gangster youre not a gangster , lets fix this economic trouble".
