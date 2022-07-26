@@ -18,8 +18,11 @@ SnakeCase the zigzag of nonsense... i remember this text... still exists?
 
 
 I received an email in matter of fact 2.. 
-Finally someone understood the obvious.. i need a economic advisor. to take care of my wallyet... :-) 
+1- Finally someone understood the obvious.. i need a economic advisor. to take care of my wallyet... :-) 
 Someone thinking... "im not gangster youre not a gangster , lets fix this economic trouble".
+2- the second email... this is fun... "pls answer this customer satisfaction survey"... ow yeah.. 
+to receive this automatic email i sent an email about. pls what i can do? food... my place. 
+and for sure i sent an email to my "newspaper".. dont you want to take a look on this? i guess is wrong.
 
 Which db diagram represents transitions on 
 relational databases. Entity-Relationship?
