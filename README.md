@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ... java as usual (eternity learning)
 - 💞️ I’m looking to collaborate on ... earn some money... lots of debts..u
 - 📫 How to reach me ... well. lets get all here.
+-- the vm - https://bell-sw.com/pages/downloads/#/java-18-current
 - - the application - https://www.google.com/search?newwindow=1&sxsrf=ALiCzsaq6AmYBhMp0VM_ixbJWF7mPkxRaA:1658963835261&q=judas+priest+heading+out+to+the+highway&stick=H4sIAAAAAAAAAONgFuLSz9U3MMwyKDSpUOLVT9c3NEyqMLCINy8o0hLNTrbSzy0tzkzWT8xJKs21Ks7PSy9exKqeVZqSWKxQUJSZWlyikJGamJKZl66QX1qiUJKvUJKRqpCRmZ5RnlgJAO3ssu9eAAAA&sa=X&ved=2ahUKEwj98eHwmZr5AhVPDLkGHdjRBJMQri56BQiiARAE
 - WTF https://www.youtube.com/watch?v=SnTFoe5oXO4
 - mum spaghethi... https://dbschema.com/download.html
