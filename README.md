@@ -35,6 +35,9 @@ SnakeCase the zigzag of nonsense... i remember this text... still exists?
 
 - Last option is the fun part, go to an embassy ask to get out of here, since under such cirscunstances, i didn't give the proper attention for the main detail, i had to do that years but like 2 decades ago for that, i just need 1 citzenship, i will try that one that could let me be a citzen. 
 - Write isn't a problem for me, will write tomorrow again, that things hurts my basic rights, first wrote on the "ritghts of the man" and second the constituition of the country. Quite simple, need to ask to be listened after all after almost 2 decades that a fucking stupid clown let the thing goes to a deep hole of disgrace (wtf stupid i thought that he was idiot and stupid but not at that level and we came from the same mother really surprises me). 
+-But surprises me, people get embodied to analyze and judge a thing  but good sense is a premise, they invented a tool to kill someone "from one to another".. You wake up being judged by the fact of entrepreneurship crime. I understant this country half nazism half communism, i dont know how the entire world doesn't hate what this country is really representing.
+- Don't hate beacause provides food, interesting indeed. Send a banana from the republic "they will love it". 
+
 
 "In my eyes
 Indisposed
