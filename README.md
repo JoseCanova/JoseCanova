@@ -38,7 +38,10 @@ SnakeCase the zigzag of nonsense... i remember this text... still exists?
 -But surprises me, people get embodied to analyze and judge a thing  but good sense is a premise, they invented a tool to kill someone "from one to another".. You wake up being judged by the fact of entrepreneurship crime. I understant this country half nazism half communism, i dont know how the entire world doesn't hate what this country is really representing.
 - Don't hate beacause provides food, interesting indeed. Send a banana from the republic "they will love it". 
 - Since i guess their arguments were based on their word, so i need to let mine their too. with some other arguments. I saw an OVNI "took a picture" and there is the ET's... fun..the belief on the "non-existent". as we say "give me a break".. 
-
+- Indeed seeing some pictures where suggest some good ideas, the last one, here comes the sun. 
+- "One day after another".. imagine the rent, the food, transport and the days beyond, at the eyes that who assured such right (that should be equal for everyone) there are special places, here goes beyond the abomination of "riches and poors". 
+- "Such issue is solved", i listened that about 14years ago. "Half true". Nothing solved, and theory and practice."
+- 
 "In my eyes
 Indisposed
 In disguise
