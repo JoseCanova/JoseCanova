@@ -29,6 +29,7 @@ to try to use a small footprint db.. (derby or slqlite).
 Decompose the task of clean code and fix all the mess using unit tests. (and thank god) still writing and thinking.
 SnakeCase the zigzag of nonsense... i remember this text... still exists?
 
+- Great Day... Monday. .COM Tomorrow is a important day, fight for your liberty its also work. Its important , if you reside in a country that have a "Constitution".. That is not a warship , good to visit it. And tomorrow i will know if someone "speak seriouly" for one side it's to be nominated to judge "arguments" other things is to invent laws, deliberate you die he lives. I have a different point of view, my perspective does not fit your decision. A lot of bureaucracy that i understood that with good sense could be avoided. Anyhow, over me... and all come together. And its a math problem, with an "old argument".. that if 3 speak together same shit. it's a true. the main problem is first i need to understand their that until know i didn`t have the oportunity to read. If the devil asks for my soul, i asking where i signed that i sold my soul to them. I signed something that on that time was required to fill a rule that is not recquired anymore and being judged by a new set of rules so, need to bring my negation to being part of the old rule to fill the conclusion based on the new rule. 
 
 "In my eyes
 Indisposed
