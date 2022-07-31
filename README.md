@@ -40,7 +40,7 @@ SnakeCase the zigzag of nonsense... i remember this text... still exists?
 - Since i guess their arguments were based on their word, so i need to let mine their too. with some other arguments. I saw an OVNI "took a picture" and there is the ET's... fun..the belief on the "non-existent". as we say "give me a break".. 
 - Indeed seeing some pictures where suggest some good ideas, the last one, here comes the sun. 
 - "One day after another".. imagine the rent, the food, transport and the days beyond, at the eyes that who assured such right (that should be equal for everyone) there are special places, here goes beyond the abomination of "riches and poors". 
-- "Such issue is solved", i listened that about 14years ago. "Half true". Nothing solved, and theory and practice."
+- "Such issue is solved", i listened that about 14years ago. "Half true". Nothing solved, theory and practice."
 - 
 "In my eyes
 Indisposed
