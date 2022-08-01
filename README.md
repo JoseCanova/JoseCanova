@@ -24,7 +24,7 @@ Crusader, Lord of the Realm"
 - just another confession - https://www.youtube.com/watch?v=h_L4Rixya64
 - - stick like a bond - https://www.youtube.com/watch?v=yPsqQ13UduQ
 - here comes - https://www.youtube.com/watch?v=KQetemT1sWc
-
+- https://time.com/charter/6200157/gen-z-workplace-change/ - https://youtu.be/al-3dYwox6o
 ![alt text](https://4.bp.blogspot.com/-VybEg5_nyJI/XJLg1HQY3uI/AAAAAAAAk1E/ABZMARjwcwwaN_vgenSFI29OJANXzU0cgCLcBGAs/s640/catwoman_pointing_at_you__by_dahrialghul_dapi0d3-pre.jpg)
 
 https://www.youtube.com/watch?v=wO14PALNMwM
