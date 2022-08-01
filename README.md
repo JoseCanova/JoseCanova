@@ -4,7 +4,7 @@
 - 📫 How to reach me ... well. lets get all here.
 -- the vm - https://bell-sw.com/pages/downloads/#/java-18-current
 - Ye, when i read what was written the only thing that i would like to way to my father is thank you. https://youtu.be/JPbSjmToWXY - he was never a viking. https://www.youtube.com/watch?v=jiveL3VfglM - nothing against vikings my mother family is quite religious... 
-- immersive tchnologies and where to blog what is good - "Fight the good fight
+- immersive tchnologies and where to blog what is good - https://youtu.be/zIWeIChes5k"Fight the good fight
 Believe what is right
 Crusader, Lord of the Realm
 - and if i say, i never took money of and as far i know my partner was he driver.
