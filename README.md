@@ -7,6 +7,7 @@
 - immersive tchnologies and where to blog what is good - "Fight the good fight
 Believe what is right
 Crusader, Lord of the Realm
+- and if i say, i never took money of and as far i know my partner was he driver.
 Fight the good fight
 With all your might
 Crusader, Lord of the Realm"
