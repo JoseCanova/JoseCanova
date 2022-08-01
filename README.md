@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... java as usual (eternity learning) -
 - 📫 How to reach me ... well. lets get all here.
 -- the vm - https://bell-sw.com/pages/downloads/#/java-18-current
-- Ye, when i read what was written the only thing that i would like to way to my father is thank you. https://youtu.be/JPbSjmToWXY - he was neve a viking. - nothing against vikings my mother family is quite religious... 
+- Ye, when i read what was written the only thing that i would like to way to my father is thank you. https://youtu.be/JPbSjmToWXY - he was never a viking. - nothing against vikings my mother family is quite religious... 
 - immersive tchnologies and where to blog what is good - "Fight the good fight
 Believe what is right
 Crusader, Lord of the Realm
@@ -11,7 +11,7 @@ Crusader, Lord of the Realm
 Fight the good fight
 With all your might
 Crusader, Lord of the Realm"
-
+-for sure - https://youtu.be/y65U8omaAq4
 - - the application - https://www.google.com/search?newwindow=1&sxsrf=ALiCzsaq6AmYBhMp0VM_ixbJWF7mPkxRaA:1658963835261&q=judas+priest+heading+out+to+the+highway&stick=H4sIAAAAAAAAAONgFuLSz9U3MMwyKDSpUOLVT9c3NEyqMLCINy8o0hLNTrbSzy0tzkzWT8xJKs21Ks7PSy9exKqeVZqSWKxQUJSZWlyikJGamJKZl66QX1qiUJKvUJKRqpCRmZ5RnlgJAO3ssu9eAAAA&sa=X&ved=2ahUKEwj98eHwmZr5AhVPDLkGHdjRBJMQri56BQiiARAE
 - WTF https://www.youtube.com/watch?v=SnTFoe5oXO4
 - mum spaghethi... https://dbschema.com/download.html
