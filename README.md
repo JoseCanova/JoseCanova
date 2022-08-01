@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... java as usual (eternity learning) -
 - 📫 How to reach me ... well. lets get all here.
 -- the vm - https://bell-sw.com/pages/downloads/#/java-18-current
-- Ye, when i read what was written the only thing that i would like to way to my father is thank you. https://youtu.be/JPbSjmToWXY - he was never a viking. - nothing against vikings my mother family is quite religious... 
+- Ye, when i read what was written the only thing that i would like to way to my father is thank you. https://youtu.be/JPbSjmToWXY - he was never a viking. https://www.youtube.com/watch?v=jiveL3VfglM - nothing against vikings my mother family is quite religious... 
 - immersive tchnologies and where to blog what is good - "Fight the good fight
 Believe what is right
 Crusader, Lord of the Realm
