@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JoseCanova
+- 👋 Hi, I’m @JoseCanova - https://youtu.be/RHZVZWB98ys
 - 👀 I’m interested in ...computing
 - 🌱 I’m currently learning ... java as usual (eternity learning) -
 - 📫 How to reach me ... well. lets get all here.
