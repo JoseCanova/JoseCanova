@@ -26,6 +26,23 @@ Crusader, Lord of the Realm" https://youtu.be/IFv5Imsg_kk
 - here comes - https://www.youtube.com/watch?v=KQetemT1sWc
 - https://time.com/charter/6200157/gen-z-workplace-change/ - https://youtu.be/al-3dYwox6o
 ![alt text](https://4.bp.blogspot.com/-VybEg5_nyJI/XJLg1HQY3uI/AAAAAAAAk1E/ABZMARjwcwwaN_vgenSFI29OJANXzU0cgCLcBGAs/s640/catwoman_pointing_at_you__by_dahrialghul_dapi0d3-pre.jpg)
+- start o et imressed :-) = 
+- - "Keep you in the dark
+You know they all pretend
+Keep you in the dark
+And so it all began
+Send in your skeletons
+Sing as their bones go marching in again
+They need you buried deep
+The secrets that you keep are ever ready
+Are you ready?
+I'm finished making sense
+Done pleading ignorance
+That old defense
+Spinning infinity, boy
+The wheel is spinning me
+It's never-ending, never-ending
+Same old story"
 
 https://www.youtube.com/watch?v=wO14PALNMwM
 
