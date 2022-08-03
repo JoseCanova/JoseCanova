@@ -1,4 +1,4 @@
-[](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA10gR6O.img?h=768&w=1080&m=6&q=60&o=f&l=f)
+![]( https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA10gR6O.img?h=768&w=1080&m=6&q=60&o=f&l=f )
 - 👋 Hi, I’m @JoseCanova - https://youtu.be/RHZVZWB98ys
 - 👀 I’m interested in ...computing - https://youtu.be/3sE1rKAUNtg
 - 🌱 I’m currently learning ... java as usual (eternity learning) - https://youtu.be/lItwOrAoOKU
