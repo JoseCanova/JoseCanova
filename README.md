@@ -1,14 +1,6 @@
 - just ice... https://youtu.be/MQOnbp_DspY 
 - https://www.youtube.com/watch?v=KQetemT1sWc
-- "I want love to, roll me over slowly
-Stick a knife inside me, and twist it all around.
-I want love to, grab my fingers gently
-Slam them in a doorway, put my face into the ground.
-I want love to, murder my own mother and
-Take her off to somewhere like hell or up above.
-I want love to change my friends to enemies,
-Change my friends to enemies and show me how it's all my fault.
-"
+
 ![]( https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA10gR6O.img?h=768&w=1080&m=6&q=60&o=f&l=f )
 - 👋 Hi, I’m @JoseCanova - https://youtu.be/RHZVZWB98ys
 - 👀 I’m interested in ...computing - https://youtu.be/3sE1rKAUNtg
@@ -33,6 +25,15 @@ Crusader, Lord of the Realm" https://youtu.be/IFv5Imsg_kk
 - - throw - https://www.youtube.com/watch?v=iM2Q_8CPLno
 - advice -https://youtu.be/pAgnJDJN4VA 
 - -the automation of automation - https://youtu.be/XMl6HnhFFIA systems that build systems.
+- - "I want love to, roll me over slowly
+Stick a knife inside me, and twist it all around.
+I want love to, grab my fingers gently
+Slam them in a doorway, put my face into the ground.
+I want love to, murder my own mother and
+Take her off to somewhere like hell or up above.
+I want love to change my friends to enemies,
+Change my friends to enemies and show me how it's all my fault.
+"
 - just another confession - https://www.youtube.com/watch?v=h_L4Rixya64
 - - stick like a bond - https://www.youtube.com/watch?v=yPsqQ13UduQ
 - here comes - https://www.youtube.com/watch?v=KQetemT1sWc
