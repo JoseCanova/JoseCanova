@@ -133,7 +133,7 @@ And fuck all assholes..
 
 Talk with my brother best friend is the best.
 - https://youtu.be/A7PhbOUQoQY
-[]( https://upload.wikimedia.org/wikipedia/commons/1/17/More_Nonsense%2C_Pictures%2C_Rhymes%2C_Botany%2C_etc._%281872%29%2C_The_Zigzag_Zealous_Zebra.jpg )
+![]( https://upload.wikimedia.org/wikipedia/commons/1/17/More_Nonsense%2C_Pictures%2C_Rhymes%2C_Botany%2C_etc._%281872%29%2C_The_Zigzag_Zealous_Zebra.jpg )
 
 Complicated but fun..
 
