@@ -26,6 +26,7 @@ Crusader, Lord of the Realm" https://youtu.be/IFv5Imsg_kk
 - here comes - https://www.youtube.com/watch?v=KQetemT1sWc
 - https://time.com/charter/6200157/gen-z-workplace-change/ - https://youtu.be/al-3dYwox6o
 ![alt text](https://4.bp.blogspot.com/-VybEg5_nyJI/XJLg1HQY3uI/AAAAAAAAk1E/ABZMARjwcwwaN_vgenSFI29OJANXzU0cgCLcBGAs/s640/catwoman_pointing_at_you__by_dahrialghul_dapi0d3-pre.jpg)
+-the practice of anti-scinence... got inspired today.. uyou now at some sort of tribunal.. someone ask an answer in a certain amount of time... this is totally anti-science... truth and justice dont have a time to come... it just comes.. 
 - start o et imressed :-) = 
 - - "Keep you in the dark
 You know they all pretend
