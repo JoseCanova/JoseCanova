@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning ... java as usual (eternity learning) - https://youtu.be/lItwOrAoOKU
 - 📫 How to reach me ... well. lets get all here.
 -- the vm - https://bell-sw.com/pages/downloads/#/java-18-current
+- https://www.youtube.com/watch?v=hidc8qac4SE
 - Ye, when i read what was written the only thing that i would like to way to my father is thank you. https://youtu.be/JPbSjmToWXY - he was never a viking. https://www.youtube.com/watch?v=jiveL3VfglM - nothing against vikings my mother family is quite religious... 
 - immersive tchnologies and where to blog what is good - https://youtu.be/zIWeIChes5k"Fight the good fight
 Believe what is right
