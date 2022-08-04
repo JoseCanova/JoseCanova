@@ -161,6 +161,8 @@ Talk with my brother best friend is the best.
 
 Complicated but fun..
 
+![]( https://www.jesmond.com/wp-content/uploads/2020/05/fly-2198016_1920_aamiraimer-768x512.jpg )
+
 3min of thinking..yhen we got shocked..
 We got it..its the perfect sample..
 Pick a beer...
