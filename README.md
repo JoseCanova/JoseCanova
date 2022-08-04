@@ -111,8 +111,20 @@ relational databases. Entity-Relationship?
 That is repreeentented by the constraints
 In the model.
 
+- Indeed https://www.youtube.com/watch?v=nspxAG12Cpc
+"I am just a worthless liar
 
-Next == Last sounds like a queue willema.
+I am just an imbecile
+
+I will only complicate you
+
+Trust in me and fall as well
+
+I will find a center in you
+
+I will chew it up and leave"
+
+-Next == Last sounds like a queue willema.
 Drop all vertex in a queue and mark visited.
 So put when it appear and call the queue as list and the list as visited.
 Since you have to ask ..is it visited?
