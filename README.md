@@ -1,1 +1,1 @@
-[Current project on development](https://github.com/JoseCanova/maven-metaclass-plugin/wiki)
+[Current project on active development](https://github.com/JoseCanova/maven-metaclass-plugin/wiki)
